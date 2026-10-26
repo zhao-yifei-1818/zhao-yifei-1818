@@ -9,20 +9,22 @@ Badges: https://shields.io/docs/logos
 
 <div align="center">
 
-<br>
-
-<p><sub>DATA &nbsp; / &nbsp; PEOPLE &nbsp; / &nbsp; SYSTEMS</sub></p>
-
-<h1>William Zhao</h1>
-
-<p><strong>Practical software. Thoughtful design.</strong></p>
-
-<p>CS Senior @ Oregon State University<br><sub>Undergraduate Research Assistant · Corvallis, Oregon</sub></p>
+<!-- HERO: Edit text/desc and gradient colors in the banner URL.
+The animation is inside external SVG images, not scripts in the README.
+Services: github.com/kyechan99/capsule-render · github.com/DenverCoder1/readme-typing-svg
+-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,35:4338CA,70:7C3AED,100:0891B2&amp;height=240&amp;section=header&amp;text=William%20Zhao&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;descSize=14&amp;descAlignY=58" alt="William Zhao — Ideas into useful tools. Blue, violet and teal gradient banner.">
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-312E81?style=flat-square" alt="Backend">
-  <img src="https://img.shields.io/badge/Data%20Systems-4338CA?style=flat-square" alt="Data Systems">
-  <img src="https://img.shields.io/badge/Applied%20Research-6366F1?style=flat-square" alt="Applied Research">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1600&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Practical+software.+Thoughtful+design.;Turning+complexity+into+useful+tools.;Understand.+Build.+Test.+Improve.&amp;repeat=true" alt="Practical software. Thoughtful design. Turning complexity into useful tools. Understand. Build. Test. Improve.">
+</p>
+
+<p><strong>CS Senior @ Oregon State University</strong><br><sub>Undergraduate Research Assistant · Corvallis, Oregon</sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-4F46E5?style=for-the-badge" alt="Backend">
+  <img src="https://img.shields.io/badge/Data%20Systems-7C3AED?style=for-the-badge" alt="Data Systems">
+  <img src="https://img.shields.io/badge/Applied%20Research-0891B2?style=for-the-badge" alt="Applied Research">
 </p>
 
 <br>
@@ -137,14 +139,17 @@ Tools that make information easier to find, understand, and act on—in educatio
 
 </details>
 
+<!-- Replace YOUR_GITHUB_USERNAME, then uncomment the entire block below. -->
+<!--
 
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zhao-yifei-1818&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=818CF8&amp;text_color=8B949E&amp;icon_color=818CF8" alt="William Zhao's public GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-yifei-1818&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=818CF8&amp;text_color=8B949E" alt="Languages in William Zhao's public repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=818CF8&amp;text_color=8B949E&amp;icon_color=818CF8" alt="William Zhao's public GitHub statistics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=818CF8&amp;text_color=8B949E" alt="Languages in William Zhao's public repositories">
 </p>
 
+-->
 
 <br>
 
